@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SliderPresenter.receiveAirports(data:):SliderPresenter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data.items">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in URL_Session.executeAirports(parameters:):NetworkManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SliderView.getAirports():SliderView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "RequestAirportsStruct">
+            </PersistentString>
+            <PersistentString
+               value = "distanceSlider.value">
+            </PersistentString>
+            <PersistentString
+               value = "lat">
+            </PersistentString>
+            <PersistentString
+               value = "lon">
+            </PersistentString>
+            <PersistentString
+               value = "distance">
+            </PersistentString>
+            <PersistentString
+               value = "location.coordinate.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "URL_Session.urlSession(_:dataTask:didReceive:completionHandler:):NetworkManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "URL_Session.executeAirports(parameters:):NetworkManager.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
